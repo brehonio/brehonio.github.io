@@ -4,4 +4,4 @@ title: Abstract
 layout: post
 ---
 Brehon (named after the private law system in ancient Ireland) is a third-party arbitration solution for smart contracts on the Ethereum network. This arbitration solution could enable any smart contract to be arbitrated if the parties involved raise a dispute about the intent and execution of the smart contract. 
-Human arbitration allows for the creation of more complex smart contracts with the safety and enforceability of real world contracts.
+Human arbitration allows for the creation of more complex smart contracts with the safety and enforceability of real world contracts. [Draft](/public/pdf/BrehonProposal-PositionPaper[Draft].pdf)
